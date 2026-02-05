@@ -6,3 +6,4 @@ I  do not  suggest  the  answer.
 
 
 p.s:  THE  PROBLEM  OCCURED BY  WHAT BIG-TECH using.  The big tech  know the  answer.
+(Hint:  The  tooling dependency.)
